@@ -1,2 +1,2 @@
-# project
-car animation
+# FarmConnect
+Project Placeholder
